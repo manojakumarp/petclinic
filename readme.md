@@ -1,7 +1,7 @@
 # Jenkins Pipeline for petclinic Project (Deploy to DockerHub)
 
 ## Introduction
-Pipeline built in Jenkins for the Spring project: ```https://github.com/spring-projects/petclinic```.
+Pipeline built in Jenkins for the Spring project: ```https://github.com/manojakumarp/petclinic```.
 
 ## Dockerhub Links
 - 'petclinic' repository is where all the runnable images are stored: https://hub.docker.com/repository/docker/manoja/petclinic.
@@ -13,7 +13,7 @@ Pipeline built in Jenkins for the Spring project: ```https://github.com/spring-p
 
 ## Running the Project
 
-1) Clone the project: <br>```git clone https://github.com/talitz/petclinic-jenkins-pipeline.git```
+1) Clone the project: <br>```git clone https://github.com/manojakumarp/petclinic-jenkins-pipeline.git```
 
 2) CD into the project and provide permissions to the shell running scripts:</br>
 - ```cd petclinic-jenkins-pipeline```
